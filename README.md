@@ -13,3 +13,5 @@ Experience level categorization (Entry, Mid, Senior, Executive)
 Company size impact analysis
 
 Remote work trends and patterns
+
+Dashboard link : https://github.com/Sownd21/Data-analysis-project/blob/main/AI%20jobs%20ss.png
