@@ -1,0 +1,100 @@
+job_id,job_title,salary_usd,salary_currency,experience_level,employment_type,company_location,employee_residence,remote_ratio,education_required,posting_date,company_name
+AI00001,AI Research Scientist,90376,USD,SE,CT,China,China,50,Bachelor,18-10-2024,Smart Analytics
+AI00002,AI Software Engineer,61895,USD,EN,CT,Canada,Ireland,100,Master,20-11-2024,TechCorp Inc
+AI00003,AI Specialist,152626,USD,MI,FL,Switzerland,South Korea,0,Associate,18-03-2025,Autonomous Tech
+AI00004,NLP Engineer,80215,USD,SE,FL,India,India,50,PhD,23-12-2024,Future Systems
+AI00005,AI Consultant,54624,EUR,EN,PT,France,Singapore,100,Master,15-04-2025,Advanced Robotics
+AI00006,AI Architect,123574,EUR,SE,CT,Germany,Germany,50,Associate,31-08-2024,Neural Networks Co
+AI00007,Principal Data Scientist,79670,GBP,MI,FL,United Kingdom,United Kingdom,0,Associate,29-12-2024,DataVision Ltd
+AI00008,NLP Engineer,70640,EUR,EN,FL,France,France,0,Master,07-06-2024,Cloud AI Solutions
+AI00009,Data Analyst,160710,USD,SE,CT,Singapore,Singapore,0,PhD,04-11-2024,Quantum Computing Inc
+AI00010,AI Software Engineer,102557,USD,SE,PT,Austria,Austria,0,Master,20-10-2024,Cloud AI Solutions
+AI00011,Autonomous Systems Engineer,102322,USD,SE,PT,Sweden,Sweden,100,Associate,29-01-2025,Smart Analytics
+AI00012,AI Architect,115047,USD,EX,CT,South Korea,South Korea,0,Master,16-07-2024,TechCorp Inc
+AI00013,AI Consultant,124355,EUR,SE,CT,France,France,100,PhD,29-12-2024,Predictive Systems
+AI00014,Autonomous Systems Engineer,68760,USD,EN,CT,Norway,Norway,0,Master,11-02-2024,Cloud AI Solutions
+AI00015,AI Research Scientist,150122,USD,SE,FT,Sweden,Sweden,100,Associate,02-10-2024,Advanced Robotics
+AI00016,AI Product Manager,78846,GBP,EN,PT,United Kingdom,Israel,0,PhD,28-09-2024,DataVision Ltd
+AI00017,Principal Data Scientist,59823,USD,EN,FT,India,India,100,Bachelor,06-02-2025,Predictive Systems
+AI00018,Machine Learning Engineer,181139,EUR,EX,CT,France,France,100,Associate,24-04-2024,AI Innovations
+AI00019,Data Engineer,155300,USD,SE,CT,Singapore,Singapore,0,Associate,30-04-2024,Algorithmic Solutions
+AI00020,Research Scientist,93851,EUR,MI,PT,Netherlands,Germany,100,PhD,01-05-2024,AI Innovations
+AI00021,Data Engineer,134197,USD,MI,FT,Norway,France,0,Bachelor,21-06-2024,AI Innovations
+AI00022,Autonomous Systems Engineer,102550,USD,MI,PT,United States,United States,0,Bachelor,23-04-2024,Cognitive Computing
+AI00023,ML Ops Engineer,99382,EUR,SE,CT,Germany,Germany,0,PhD,13-03-2025,Quantum Computing Inc
+AI00024,AI Product Manager,52167,USD,MI,FT,Austria,Ireland,100,Master,07-06-2024,Cloud AI Solutions
+AI00025,ML Ops Engineer,53923,USD,MI,FT,China,China,0,Bachelor,27-10-2024,AI Innovations
+AI00026,Robotics Engineer,109779,USD,SE,PT,Israel,Israel,100,PhD,01-08-2024,DataVision Ltd
+AI00027,ML Ops Engineer,80979,USD,MI,CT,Australia,India,50,Master,18-11-2024,TechCorp Inc
+AI00028,Data Analyst,52997,USD,MI,PT,Austria,Singapore,0,PhD,10-01-2025,Predictive Systems
+AI00029,Head of AI,42819,USD,EN,CT,Ireland,Ireland,50,PhD,08-10-2024,Cognitive Computing
+AI00030,ML Ops Engineer,82083,USD,MI,CT,Israel,Israel,100,Master,18-01-2024,Future Systems
+AI00031,Head of AI,67488,EUR,EN,FT,Netherlands,Netherlands,100,Master,16-05-2024,Advanced Robotics
+AI00032,Research Scientist,68624,USD,EN,FT,Denmark,Denmark,0,Master,31-01-2024,Cloud AI Solutions
+AI00033,Robotics Engineer,146852,USD,SE,FT,Switzerland,Switzerland,50,PhD,28-08-2024,Cognitive Computing
+AI00034,ML Ops Engineer,178183,USD,EX,FL,Finland,Finland,0,Associate,01-03-2024,Predictive Systems
+AI00035,Deep Learning Engineer,150864,USD,SE,FL,Sweden,Singapore,0,PhD,26-10-2024,Smart Analytics
+AI00036,Head of AI,126942,USD,EX,CT,Finland,Netherlands,0,Associate,31-01-2024,Autonomous Tech
+AI00037,AI Architect,53752,USD,MI,PT,Japan,Japan,100,Associate,17-10-2024,TechCorp Inc
+AI00038,Robotics Engineer,111381,USD,EX,CT,Israel,Israel,0,Master,14-01-2024,Autonomous Tech
+AI00039,AI Specialist,41430,USD,EN,PT,China,China,50,Bachelor,15-06-2024,Future Systems
+AI00040,Data Engineer,166080,EUR,EX,FL,Netherlands,Netherlands,100,Associate,01-03-2024,DeepTech Ventures
+AI00041,Data Scientist,96956,USD,MI,FT,United States,China,0,Bachelor,24-02-2024,DataVision Ltd
+AI00042,AI Architect,196954,USD,SE,FL,United States,United States,50,Bachelor,17-03-2025,DataVision Ltd
+AI00043,AI Specialist,56745,USD,EN,PT,Finland,Finland,100,Associate,01-02-2025,Quantum Computing Inc
+AI00044,Machine Learning Researcher,113455,USD,SE,FT,Singapore,Singapore,50,Associate,24-04-2024,AI Innovations
+AI00045,ML Ops Engineer,158808,EUR,SE,PT,Netherlands,Netherlands,50,Bachelor,03-03-2025,Future Systems
+AI00046,AI Research Scientist,174663,USD,SE,CT,United States,Singapore,50,Associate,10-01-2024,DeepTech Ventures
+AI00047,AI Research Scientist,46753,USD,EN,CT,India,India,50,PhD,16-11-2024,Quantum Computing Inc
+AI00048,AI Software Engineer,69020,USD,MI,FL,China,China,0,Bachelor,05-09-2024,TechCorp Inc
+AI00049,AI Specialist,288815,USD,EX,PT,Switzerland,Switzerland,0,Bachelor,08-08-2024,Cognitive Computing
+AI00050,AI Consultant,124871,USD,EX,FL,Austria,Finland,50,PhD,10-03-2025,Autonomous Tech
+AI00051,AI Architect,70391,EUR,MI,FT,Germany,Germany,0,PhD,16-08-2024,TechCorp Inc
+AI00052,Research Scientist,115376,USD,EX,FT,India,India,100,Master,12-03-2024,Autonomous Tech
+AI00053,Research Scientist,106579,USD,MI,PT,United States,United States,100,Associate,24-02-2024,Cognitive Computing
+AI00054,Data Scientist,135230,USD,SE,PT,Norway,Norway,100,PhD,07-07-2024,DataVision Ltd
+AI00055,Research Scientist,67607,USD,MI,PT,Israel,Israel,50,Master,05-08-2024,Quantum Computing Inc
+AI00056,AI Architect,88470,USD,MI,PT,Canada,Canada,0,Associate,29-07-2024,Autonomous Tech
+AI00057,Autonomous Systems Engineer,79863,USD,MI,FL,India,India,100,Associate,28-09-2024,Autonomous Tech
+AI00058,Machine Learning Engineer,60299,USD,EN,PT,Israel,Israel,100,PhD,22-03-2025,Advanced Robotics
+AI00059,Machine Learning Engineer,85645,EUR,MI,FT,Germany,Germany,0,Associate,09-02-2024,AI Innovations
+AI00060,AI Software Engineer,110222,GBP,SE,FL,United Kingdom,France,0,Associate,20-03-2024,TechCorp Inc
+AI00061,Data Scientist,49365,USD,EN,FT,China,China,0,Associate,22-06-2024,Predictive Systems
+AI00062,Data Scientist,162296,USD,SE,PT,Norway,Norway,50,Bachelor,05-06-2024,Neural Networks Co
+AI00063,AI Consultant,102382,USD,MI,PT,Switzerland,Switzerland,0,PhD,23-03-2024,Smart Analytics
+AI00064,AI Software Engineer,99972,USD,MI,PT,Australia,Canada,50,PhD,20-02-2024,Cloud AI Solutions
+AI00065,Data Engineer,64129,USD,EN,CT,South Korea,South Korea,0,Bachelor,15-12-2024,Machine Intelligence Group
+AI00066,AI Specialist,87938,USD,SE,FT,Ireland,Ireland,100,PhD,15-12-2024,Machine Intelligence Group
+AI00067,Autonomous Systems Engineer,71405,USD,MI,FL,Israel,Israel,0,Associate,01-09-2024,Advanced Robotics
+AI00068,Machine Learning Engineer,316182,USD,EX,PT,Denmark,Canada,0,Associate,09-02-2025,Digital Transformation LLC
+AI00069,Machine Learning Researcher,72459,EUR,EN,PT,Germany,Germany,100,Bachelor,30-08-2024,Quantum Computing Inc
+AI00070,Principal Data Scientist,78338,EUR,MI,FT,France,France,100,Associate,31-10-2024,Cognitive Computing
+AI00071,NLP Engineer,51907,USD,MI,FL,Israel,Singapore,100,Bachelor,14-02-2024,Neural Networks Co
+AI00072,Autonomous Systems Engineer,122831,EUR,SE,FL,France,France,100,Master,31-05-2024,Algorithmic Solutions
+AI00073,Machine Learning Researcher,124820,USD,MI,FL,Norway,Norway,50,Associate,02-08-2024,Cognitive Computing
+AI00074,Autonomous Systems Engineer,134200,GBP,SE,PT,United Kingdom,United Kingdom,50,PhD,29-11-2024,Machine Intelligence Group
+AI00075,Data Engineer,51920,USD,EN,PT,Sweden,Finland,100,PhD,08-04-2025,Digital Transformation LLC
+AI00076,Data Engineer,56427,USD,EN,FL,Singapore,Singapore,100,Master,16-11-2024,DeepTech Ventures
+AI00077,AI Product Manager,213783,USD,EX,FT,Canada,Canada,100,Bachelor,19-09-2024,Quantum Computing Inc
+AI00078,ML Ops Engineer,59728,USD,MI,FL,Israel,Israel,50,Associate,10-06-2024,DataVision Ltd
+AI00079,Computer Vision Engineer,119432,USD,SE,CT,India,India,0,PhD,20-04-2024,Autonomous Tech
+AI00080,AI Research Scientist,284486,USD,EX,CT,United States,United States,0,Master,13-02-2025,TechCorp Inc
+AI00081,Data Analyst,157597,EUR,EX,CT,France,France,50,Bachelor,31-08-2024,Neural Networks Co
+AI00082,ML Ops Engineer,196942,USD,EX,CT,Australia,Australia,100,Master,01-04-2024,TechCorp Inc
+AI00083,Machine Learning Researcher,207548,USD,EX,CT,Canada,Canada,0,PhD,05-02-2024,Cognitive Computing
+AI00084,NLP Engineer,68838,USD,MI,FL,Sweden,Sweden,50,PhD,20-06-2024,TechCorp Inc
+AI00085,ML Ops Engineer,125666,USD,EX,FL,Finland,Finland,100,PhD,19-06-2024,TechCorp Inc
+AI00086,NLP Engineer,73174,USD,EN,FT,Denmark,Denmark,50,Associate,14-07-2024,Machine Intelligence Group
+AI00087,Autonomous Systems Engineer,33314,USD,EN,CT,Israel,India,50,Bachelor,16-04-2025,Future Systems
+AI00088,AI Specialist,69914,USD,EN,FT,United States,United States,100,Associate,15-02-2025,Smart Analytics
+AI00089,Principal Data Scientist,152118,EUR,EX,FL,France,France,50,Master,20-05-2024,AI Innovations
+AI00090,AI Software Engineer,78014,EUR,EN,CT,France,France,50,PhD,19-11-2024,Digital Transformation LLC
+AI00091,Research Scientist,48466,USD,EN,PT,Canada,Canada,100,Bachelor,10-03-2025,Predictive Systems
+AI00092,Data Analyst,97997,EUR,SE,CT,France,France,50,PhD,19-06-2024,Algorithmic Solutions
+AI00093,Principal Data Scientist,128341,USD,SE,FL,Singapore,Singapore,0,Bachelor,26-04-2025,Neural Networks Co
+AI00094,AI Research Scientist,111528,USD,MI,FL,United States,United States,0,PhD,01-03-2024,Predictive Systems
+AI00095,Machine Learning Researcher,138945,USD,EX,PT,Canada,Canada,50,Master,10-07-2024,DeepTech Ventures
+AI00096,NLP Engineer,98688,USD,SE,FT,Israel,Israel,50,Bachelor,10-04-2024,Cognitive Computing
+AI00097,Data Analyst,109029,EUR,SE,FT,France,France,0,Bachelor,05-04-2025,Predictive Systems
+AI00098,NLP Engineer,84797,USD,MI,FT,Canada,Canada,0,Master,04-12-2024,Machine Intelligence Group
+AI00099,Machine Learning Researcher,290199,USD,EX,CT,Switzerland,Denmark,50,Master,12-01-2025,Smart Analytics
