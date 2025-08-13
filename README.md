@@ -4,6 +4,8 @@ This comprehensive dataset contains detailed information about AI and machine le
 
 Key features :-
 
+It includes detailed salary information, job requirements, company insights, and geographic trends.
+
 15,000+ job listings from 50+ countries
 
 Salary data in multiple currencies (normalized to USD)
