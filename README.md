@@ -1,4 +1,4 @@
-AI Job Market & Salary Analysis
+AI Job Market & trends Analysis
 ## objective 
 This comprehensive dataset contains detailed information about AI and machine learning job positions, salaries, and market trends across different countries, experience levels, and company sizes. 
 
